@@ -1,7 +1,7 @@
 # ImageJ Functions
-	The same way you can call built-in ImageJ functions like 
-	run("Split Channels..."), custom functions can be created and used 
-	in the same way.
+The same way you can call built-in ImageJ functions like 
+	run("Split Channels..."); 
+custom functions can be created and used in the same way.
 ## Absolute basics of IJMacro scripting
 	- It's effectively baby javascript + a sprinkle of python.
 	- The IJMacro documentation has every single command listed, google it.
