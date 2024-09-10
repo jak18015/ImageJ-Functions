@@ -122,5 +122,5 @@ Example:
 	```javascript
 		normalized_image = ImageNormalization("minusiaa_01.tif");
 	```
-	Which will still create the new image, but `ImageNormalization()` returns the name of the newly created image that I have captured inside the variable `normalized_image`, meaning I can then use commands like `selectWindow(normalized_image);` to select that image and do further processing on it, save it to a specific directory, or close it.
+	Which will still create the new image, and since `ImageNormalization()` returns the name of the newly created image, I have captured the new image name with the variable `normalized_image`, meaning I can then use commands like `selectWindow(normalized_image);` to select that image and do further processing on it, save it to a specific directory, or close it.
 
