@@ -5,7 +5,7 @@ The same way you can call built-in ImageJ functions like
 
 custom functions can be created and used in the same way.
 ## Absolute basics of IJMacro scripting
-- It's effectively baby javascript + a sprinkle of python.
+- It's effectively baby java/javascript + a sprinkle of python.
 - The IJMacro documentation has every single command listed, google it.
 - Make sure enable autocompletion is on in the ImageJ script editor
 - Plugins -> Macros -> Record is your friend for getting commands.
